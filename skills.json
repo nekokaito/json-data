@@ -2,7 +2,7 @@
     {
       "skill_id": 1,
       "skill_name": "JavaScript",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg",
       "skill_type": "Programming Language",
       "skill_use_case": "Web development, server-side scripting, game development",
       "bg_color": "#f7df1e"
@@ -10,7 +10,7 @@
     {
       "skill_id": 2,
       "skill_name": "React",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
       "skill_type": "JavaScript Library",
       "skill_use_case": "Building user interfaces for web applications",
       "bg_color": "#61dafb"
@@ -18,7 +18,7 @@
     {
       "skill_id": 3,
       "skill_name": "Node.js",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg",
       "skill_type": "JavaScript Runtime",
       "skill_use_case": "Backend server-side scripting and APIs",
       "bg_color": "#339933"
@@ -26,7 +26,7 @@
     {
       "skill_id": 4,
       "skill_name": "MongoDB",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo_2019.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
       "skill_type": "NoSQL Database",
       "skill_use_case": "Storing JSON-like data for web applications",
       "bg_color": "#47A248"
@@ -34,7 +34,7 @@
     {
       "skill_id": 5,
       "skill_name": "Express.js",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
       "skill_type": "Web Framework",
       "skill_use_case": "Building web servers and APIs in Node.js",
       "bg_color": "#000000"
@@ -42,7 +42,7 @@
     {
       "skill_id": 6,
       "skill_name": "Firebase",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Google_Firebase_Logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg",
       "skill_type": "Platform",
       "skill_use_case": "Real-time databases, authentication, cloud functions",
       "bg_color": "#FFCA28"
@@ -50,7 +50,7 @@
     {
       "skill_id": 7,
       "skill_name": "Git",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Git-logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg",
       "skill_type": "Version Control",
       "skill_use_case": "Tracking and managing code changes",
       "bg_color": "#F1502F"
@@ -58,7 +58,7 @@
     {
       "skill_id": 8,
       "skill_name": "C/C++",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
       "skill_type": "Programming Language",
       "skill_use_case": "System programming, game development, performance-critical applications",
       "bg_color": "#00599C"
@@ -66,7 +66,7 @@
     {
       "skill_id": 9,
       "skill_name": "Java",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
       "skill_type": "Programming Language",
       "skill_use_case": "Enterprise applications, Android development, large systems",
       "bg_color": "#007396"
@@ -74,7 +74,7 @@
     {
       "skill_id": 10,
       "skill_name": "Tailwind CSS",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tailwind_CSS_Logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
       "skill_type": "CSS Framework",
       "skill_use_case": "Building responsive and customizable user interfaces",
       "bg_color": "#38B2AC"
@@ -82,7 +82,7 @@
     {
       "skill_id": 11,
       "skill_name": "SQL",
-      "skill_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_Logo.svg",
+      "skill_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg",
       "skill_type": "Query Language",
       "skill_use_case": "Managing and querying relational databases",
       "bg_color": "#00618B"
