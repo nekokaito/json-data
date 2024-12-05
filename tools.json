@@ -1,0 +1,82 @@
+[
+    {
+        "tool_id": 1,
+        "tool_name": "Visual Studio Code",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
+        "tool_type": "Code Editor",
+        "tool_use_case": "Writing and editing code with extensions and debugging support",
+        "bg_color": "#007ACC"
+    },
+    {
+        "tool_id": 2,
+        "tool_name": "Notion",
+        "tool_logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+        "tool_type": "Productivity Tool",
+        "tool_use_case": "Organizing tasks, note-taking, and project management",
+        "bg_color": "#000000"
+    },
+    {
+        "tool_id": 3,
+        "tool_name": "Bash",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg",
+        "tool_type": "Shell",
+        "tool_use_case": "Command-line operations and scripting",
+        "bg_color": "#4EAA25"
+    },
+    {
+        "tool_id": 4,
+        "tool_name": "Linux",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg",
+        "tool_type": "Operating System",
+        "tool_use_case": "Development, deployment, and server management",
+        "bg_color": "#FCC624"
+    },
+    {
+        "tool_id": 5,
+        "tool_name": "Windows",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg",
+        "tool_type": "Operating System",
+        "tool_use_case": "General computing, gaming, and software development",
+        "bg_color": "#00A4EF"
+    },
+    {
+        "tool_id": 6,
+        "tool_name": "ChatGPT",
+        "tool_logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+        "tool_type": "AI Assistant",
+        "tool_use_case": "Generating text, solving problems, and brainstorming",
+        "bg_color": "#10A37F"
+    },
+    {
+        "tool_id": 7,
+        "tool_name": "Firefox",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg",
+        "tool_type": "Web Browser",
+        "tool_use_case": "Web development, browsing, and debugging",
+        "bg_color": "#FF7139"
+    },
+    {
+        "tool_id": 8,
+        "tool_name": "Microsoft Edge",
+        "tool_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Microsoft_Edge_logo_%282020%29.svg",
+        "tool_type": "Web Browser",
+        "tool_use_case": "Browsing and web development",
+        "bg_color": "#0078D7"
+    },
+    {
+        "tool_id": 9,
+        "tool_name": "Bun",
+        "tool_logo": "https://bun.sh/logo.png",
+        "tool_type": "JavaScript Runtime",
+        "tool_use_case": "Running JavaScript applications with enhanced performance",
+        "bg_color": "#000000"
+    },
+    {
+        "tool_id": 10,
+        "tool_name": "Adobe Photoshop",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-line.svg",
+        "tool_type": "Graphic Design Software",
+        "tool_use_case": "Image editing, graphic design, and photo manipulation",
+        "bg_color": "#31A8FF"
+    }
+]
