@@ -66,7 +66,7 @@
     {
         "tool_id": 9,
         "tool_name": "Bun",
-        "tool_logo": "https://bun.sh/logo.png",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg",
         "tool_type": "JavaScript Runtime",
         "tool_use_case": "Running JavaScript applications with enhanced performance",
         "bg_color": "#000000"
