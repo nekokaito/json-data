@@ -1,7 +1,7 @@
 [
     {
         "tool_id": 1,
-        "tool_name": "Visual Studio Code",
+        "tool_name": "VSCode",
         "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
         "tool_type": "Code Editor",
         "tool_use_case": "Writing and editing code with extensions and debugging support",
@@ -34,7 +34,7 @@
     {
         "tool_id": 5,
         "tool_name": "Windows",
-        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg",
         "tool_type": "Operating System",
         "tool_use_case": "General computing, gaming, and software development",
         "bg_color": "#00A4EF"
@@ -50,7 +50,7 @@
     {
         "tool_id": 7,
         "tool_name": "Firefox",
-        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-plain.svg",
         "tool_type": "Web Browser",
         "tool_use_case": "Web development, browsing, and debugging",
         "bg_color": "#FF7139"
@@ -58,7 +58,7 @@
     {
         "tool_id": 8,
         "tool_name": "Microsoft Edge",
-        "tool_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Microsoft_Edge_logo_%282020%29.svg",
+        "tool_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Edge_logo_%282019%29.png/480px-Microsoft_Edge_logo_%282019%29.png",
         "tool_type": "Web Browser",
         "tool_use_case": "Browsing and web development",
         "bg_color": "#0078D7"
@@ -74,7 +74,7 @@
     {
         "tool_id": 10,
         "tool_name": "Adobe Photoshop",
-        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-line.svg",
+        "tool_logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg",
         "tool_type": "Graphic Design Software",
         "tool_use_case": "Image editing, graphic design, and photo manipulation",
         "bg_color": "#31A8FF"
